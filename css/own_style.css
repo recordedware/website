@@ -1,0 +1,74 @@
+.wrapper {
+	background-color: #FFFFFF;
+	text-align: center;
+}
+
+.header {
+	background-color: #000000;
+	text-align: center;
+}
+
+.container {
+	margin-top: 3rem;
+	margin-bottom: 6rem;
+}
+
+.footer {
+	background-color: #000000;
+}
+
+.btn {
+	color: #000000;
+}
+
+.btn:hover {
+	color: #ec8123;
+}
+
+
+.signup {
+	text-align: center;
+	margin-top: 5rem;
+}
+.btn-menu {
+	background-color: #FFFFFF;
+	color: #246068;
+}
+
+.card-title {
+	color: #FFFFFF;
+}
+
+.card {
+	background-color: #000000;
+}
+
+.btn-menu:hover {
+	background-color: #FFFFFF;
+	color: #49848D;
+}
+
+.nav-icon {
+	display: inline-block;
+	padding: 0.5rem;
+	margin-bottom: 1rem;
+	font-size: 1.6rem;
+	color: #ec8123;
+}
+
+.page-img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.credits {
+	font-size: 0.8571em;
+	text-align: center;
+}
+
+.copyright-div {
+	text-align: center;
+	color: #ec8123;
+}
