@@ -43,6 +43,9 @@
 	color: #ec8123;
 }
 
+.preorder:hover {
+	color: #000000;
+}
 
 .signup {
 	text-align: center;
@@ -64,6 +67,25 @@
 .btn-menu:hover {
 	background-color: #FFFFFF;
 	color: #49848D;
+}
+
+.band-icon {
+	display: inline-block;
+	padding: 0.5rem;
+	margin-bottom: 1rem;
+	font-size: 1.2rem;
+	color: #3268a8;
+}
+
+.bandcamp {
+	color:#FFFFFF;
+	background-color: #3268a8;
+}
+
+.bandcamp:hover {
+	color:#FFFFFF;
+	background-color: #2e7bd9;
+
 }
 
 .nav-icon {
