@@ -17,6 +17,24 @@
 	background-color: #000000;
 }
 
+.interview-text {
+
+	font-family: "Roboto script=all rev=2";
+	font-weight: 300rem;
+	font-style: normal;
+
+}
+
+.valerie {
+	height:  auto;
+	width: 100%;
+	border:none;
+}
+
+.valerie-blurb {
+	text-align:center;
+}
+
 .btn {
 	color: #000000;
 }
@@ -63,6 +81,9 @@
   z-index: -1;
 }
 
+.date{
+	text-align:right;
+}
 .credits {
 	font-size: 0.8571em;
 	text-align: center;
