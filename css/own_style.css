@@ -17,12 +17,22 @@
 	background-color: #000000;
 }
 
-.interview-text {
+.interview- {
 
 	font-family: "Roboto script=all rev=2";
 	font-weight: 300rem;
 	font-style: normal;
+}
 
+strong {
+	font-weight: bold;
+}
+
+.interview-text {
+
+	font-family: "Roboto script=all rev=2";
+	font-weight: 300rem;
+	font-style: strong;
 }
 
 .valerie {
