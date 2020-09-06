@@ -28,6 +28,13 @@ strong {
 	font-style: strong;
 }
 
+.interview-body {
+	text-align:left;
+}
+
+.row {
+	display: block;
+}
 
 .interview-text {
 
@@ -44,6 +51,10 @@ strong {
 
 .valerie-blurb {
 	text-align:center;
+}
+
+.valerie-caption {
+	text-align:left;
 }
 
 .btn {
