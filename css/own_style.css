@@ -17,16 +17,17 @@
 	background-color: #000000;
 }
 
-.interview- {
-
-	font-family: "Roboto script=all rev=2";
-	font-weight: 300rem;
-	font-style: normal;
-}
-
 strong {
 	font-weight: bold;
 }
+
+.red-letter {
+	font-family: "Roboto script=all rev=2";
+	font-size:4rem;
+	font-weight: 300rem;
+	font-style: strong;
+}
+
 
 .interview-text {
 
