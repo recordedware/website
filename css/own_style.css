@@ -148,3 +148,8 @@ strong {
 	text-align: center;
 	color: #ec8123;
 }
+
+hr.short-hr {
+	width: 50%;
+	margin: 0 auto;
+}
