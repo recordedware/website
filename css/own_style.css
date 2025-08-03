@@ -126,6 +126,12 @@ strong {
 	align-items: flex-end;
 }
 
+.icon-container-bottom {
+	display: flex;
+	justify-content: center;
+	align-items: : flex-end;
+}
+
 .nav-icon {
 	padding: 0.5rem;
 	font-size: 1.6rem;
