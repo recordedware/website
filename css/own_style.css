@@ -129,7 +129,6 @@ strong {
 .icon-container-bottom {
 	display: flex;
 	justify-content: center;
-	align-items: : flex-end;
 }
 
 .nav-icon {
